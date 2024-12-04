@@ -1,3 +1,3 @@
 # First-repo<br>
-This is my First GIT HUB Repository <br>
+This is my first Git repository <br>
 Author- Pranay Nigam
